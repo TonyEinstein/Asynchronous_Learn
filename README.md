@@ -5,7 +5,7 @@
 # Requirements
 您可以直接从环境包版本文件中安装它：
 ```
-pip install -r requirements.txt
+pip install -r github-requirements.txt
 ```
 
 # To contact me
